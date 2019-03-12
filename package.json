@@ -1,0 +1,12 @@
+{
+  "name": "mail-signature",
+  "version": "1.0.0",
+  "description": "My mail signature done with mjml",
+  "main": "index.js",
+  "author": "Alex Legent <alexandrelegent@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mjml": "^4.4.0-beta.1"
+  }
+}
